@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "basic-info-site",
+  "description": "A simple info site with 4 pages using Node.js:\r - Index\r - About\r - Contact Me\r - And, Error 404",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexus0208/Basic-Info-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexus0208/Basic-Info-Site/issues"
+  },
+  "homepage": "https://github.com/nexus0208/Basic-Info-Site#readme"
+}
